@@ -1,5 +1,5 @@
 import Pepperoni from "../assets/pepperoni.jpg";
-import Margherita from "../assets/marherita.jpg";
+import Margherita from "../assets/margherita.jpg";
 import PedroTechSpecial from "../assets/pedrotechspecial.jpg";
 import Vegan from "../assets/vegan.jpg";
 import Pineapple from "../assets/pineapple.jpg";
@@ -17,7 +17,7 @@ export const MenuList = [
     price: 55000,
   },
   {
-    name: "PedroTech Special Pizza",
+    name: "Special Pizza",
     image: PedroTechSpecial,
     price: 32000,
   },
